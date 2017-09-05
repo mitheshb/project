@@ -1,6 +1,6 @@
 DEMO 1:
 -------
-
+0. dgjdhgfmhgfmhgf
 1.      What is Oracle SOA Suite? What are the key features of it?
 2.      What is webservice? What is WSDL? Explain difference between concrete WSDL and abstract WSDL?
 3.      What is xml schema? Explain datatypes of xml schema? What is Inline Schema? 
